@@ -34,6 +34,7 @@ with open('file.txt','r') as f1:
     with open('file2.txt','a') as f2:
         for line in f1:
             f2.write(line)
+```
 ### OUTPUT:
 
 ![WhatsApp Image 2023-01-26 at 17 03 00](https://user-images.githubusercontent.com/118660461/214828024-c8168481-7988-44f5-97a9-d4c769e1239e.jpg)
